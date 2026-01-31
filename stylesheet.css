@@ -118,6 +118,9 @@ html, body {
     height: 200px;
     margin-bottom: 20PX;
 }
+    .tabcontent{
+        margin-bottom: 50px;
+    }
 
 .nav-img {
     width: 100%;
@@ -1622,3 +1625,4 @@ font-size: 50px;
         font-size: 20px;
     }
 }
+
